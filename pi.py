@@ -23,21 +23,21 @@ line = LINE('')
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
-#ki = LINE()
-#ki.log("Auth Token : " + str(ki.authToken))
-#ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
+ki = LINE()
+ki.log("Auth Token : " + str(ki.authToken))
+ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
 
-#kk = LINE()
-#kk.log("Auth Token : " + str(kk.authToken))
-#kk.log("Timeline Token : " + str(kk.tl.channelAccessToken))
+kk = LINE()
+kk.log("Auth Token : " + str(kk.authToken))
+kk.log("Timeline Token : " + str(kk.tl.channelAccessToken))
 
-#kc = LINE()
-#kc.log("Auth Token : " + str(kc.authToken))
-#kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
+kc = LINE()
+kc.log("Auth Token : " + str(kc.authToken))
+kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 
-#ks = LINE()
-#ks.log("Auth Token : " + str(ks.authToken))
-#ks.log("Timeline Token : " + str(ks.tl.channelAccessToken))
+ks = LINE()
+ks.log("Auth Token : " + str(ks.authToken))
+ks.log("Timeline Token : " + str(ks.tl.channelAccessToken))
 print ("Login Succes")
 
 lineMID = line.profile.mid
@@ -103,7 +103,7 @@ settings = {
     "man1":"ตั้งข้อความ",
     "man2":"ตั้งข้อความ",
     "man3":"ตั้งข้อความ",
-    "message":"บัญชีนี้ได้การป้องกันโดย Ŧ€₳M↬฿❂Ŧ↬ȾɆ₦₮Ɑ₡ŁɆ🇹🇭  ระบบได้ทำการบล็อคคุณอัตโนมัติ\nติดต่อเชลบอทรึบอทวี10คอมเม้นในโพสเลยคับ",
+    "message":"บัญชีนี้ได้การป้องกัน🇭  ระบบได้ทำการบล็อคคุณอัตโนมัติ\nติดต่อเชลบอทรึบอทวี10คอมเม้นในโพสเลยคับ",
     "comment":"Thanks for add me",
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
